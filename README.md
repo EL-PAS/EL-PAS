@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Navis work software
 - 💞️ I’m looking to collaborate on BIM 
 - 📫 How to reach me , nykonibe@gmail.com
-- Gender: male
+-   Gender: male
 - ⚡ Fun fact: i hope to get better with this
 
 <!---
